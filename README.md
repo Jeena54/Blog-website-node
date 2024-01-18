@@ -35,7 +35,7 @@ Explore the standout features of our website:
 
 ## License
 
-This project is licensed under the Natsasion License. For detailed information, please refer to the [LICENSE](LICENSE.md) file.
+This project is licensed under the  License. For detailed information, please refer to the [LICENSE](LICENSE.md) file.
 
 ## Get Started
 
