@@ -45,6 +45,6 @@ For more details, visit the [Live website](https://article-blog-website.onrender
 
 ## Contact
 
-If you have any inquiries or feedback, please feel free to reach out to us at [natsasion.sri@gmail.com](mailto:natsasion.sri@gmail.com).
+If you have any inquiries or feedback, please feel free to reach out to us at 
 
 Step into the world of blogging with our Blog Website!
